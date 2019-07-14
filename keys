@@ -1,0 +1,14 @@
+sawtooth keygen Agency
+sawtooth keygen CentralDept
+sawtooth keygen Kerala
+sawtooth keygen North
+sawtooth keygen Retailer1
+
+
+cat ~/.sawtooth/keys/Agency.priv
+cat ~/.sawtooth/keys/CentralDept.priv
+cat ~/.sawtooth/keys/Kerala.priv
+cat ~/.sawtooth/keys/North.priv
+cat ~/.sawtooth/keys/Retailer1.priv
+
+

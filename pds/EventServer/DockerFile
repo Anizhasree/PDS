@@ -1,0 +1,6 @@
+FROM node:8
+
+WORKDIR /project/pds/EventServer
+
+
+CMD npm install && npm start
